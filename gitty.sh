@@ -1,5 +1,3 @@
-#!/bin/bash 
-
 message="$1"
 
 git add . 
